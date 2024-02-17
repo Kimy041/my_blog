@@ -6,7 +6,7 @@ const CONFIG = {
     role: "Backend developer",
     bio: "I develop everything",
     email: "miyeong0418@gmail.com",
-    //linkedin: "morethanmin",
+    linkedin: "",
     github: "Kimy041",
     instagram: "",
   },
