@@ -2,8 +2,8 @@ const CONFIG = {
   // profile setting (required)
   profile: {
     name: "MY",
-    image: "/happy.jpeg", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
-    role: "Backend developer",
+    image: "/want.jpeg", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
+    role: "developer",
     bio: "I develop everything",
     email: "miyeong0418@gmail.com",
     linkedin: "",
@@ -12,7 +12,7 @@ const CONFIG = {
   },
   projects: [
     {
-      name: `kimy-log`,
+      name: `my-blog`,
       href: "https://github.com/Kimy041/my_blog",
     },
   ],
